@@ -60,15 +60,20 @@ endmodule
 ```
 
 **RTL realization**
+
 ![image](https://github.com/user-attachments/assets/83b00688-53ce-4b6f-947d-6d64ec0e1623)
+
 **Output:**
+
 
 **RTL**
 
 
 
 
+
 **Timing Diagram**
+
 
 **Result:**
 
