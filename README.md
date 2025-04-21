@@ -32,7 +32,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
-
+```
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by:Guru Raghav Ponjeevith V
@@ -57,7 +57,7 @@ assign F2=x6|x7|x8|x9|x10;
 endmodule
 
 */
-
+```
 
 **RTL realization**
 ![image](https://github.com/user-attachments/assets/83b00688-53ce-4b6f-947d-6d64ec0e1623)
