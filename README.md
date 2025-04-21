@@ -63,16 +63,18 @@ endmodule
 
 ![image](https://github.com/user-attachments/assets/83b00688-53ce-4b6f-947d-6d64ec0e1623)
 
-**Output:**
+**Truth Table**
 
 
-**RTL**
-
-
+![TRUTH TABLE FOR EX2](https://github.com/user-attachments/assets/afc3a642-9382-4700-8677-6e9486d40c60)
 
 
 
 **Timing Diagram**
+
+
+
+![Screenshot 2025-04-21 143140](https://github.com/user-attachments/assets/9ba00dd0-639f-4975-acaf-842cc5424570)
 
 
 **Result:**
