@@ -73,8 +73,8 @@ endmodule
 **Timing Diagram**
 
 
+![444751747-dec2314c-b379-404c-a3e9-b2439ea963bb](https://github.com/user-attachments/assets/9fdff97e-0e20-4ff7-a787-3b4d80ffb06d)
 
-![Screenshot 2025-04-21 143140](https://github.com/user-attachments/assets/9ba00dd0-639f-4975-acaf-842cc5424570)
 
 
 **Result:**
